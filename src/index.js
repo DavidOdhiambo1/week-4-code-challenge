@@ -29,7 +29,7 @@ function initialize() {
         }
 
     })
-    console.log(button)
+    
 
     })
 
